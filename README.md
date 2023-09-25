@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm YaroslavKS</h1>
+<h2 align="center">Don't be scared by my activity on GitHub, I put all my old and unnecessary projects that I no longer support in one repository for convenience and less profile clutter.</h2>
 <h3 align="center">A passionate Front-End developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 
