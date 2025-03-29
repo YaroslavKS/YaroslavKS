@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and TypeScript**
 
-- 💬 Ask me about **How cool am I ;)**
-
-- 📫 How to reach me **jarik.kuchenko@gmail.com**
-
-- 📄 Know about my experiences [https://yaroslavks.github.io/MyPortfolio/](https://yaroslavks.github.io/MyPortfolio/)
+- 💬 Ask me about **everything**
 
 - ⚡ Fun fact **I am super honest**
 
