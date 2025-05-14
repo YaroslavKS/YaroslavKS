@@ -3,15 +3,13 @@
 <h3 align="center">A passionate Front-End developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 
-- 🌱 I’m currently learning **Angular and TypeScript**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 💬 Ask me about **everything**
 
-- ⚡ Fun fact **I am super honest**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yaroslav-kuchenko-49b496264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaroslav-kuchenko-49b496264/" height="30" width="40" /></a>
+<a href="in progress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaroslav-kuchenko-49b496264/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jarik.kuchenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jarik.kuchenko/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yaroslavks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yaroslavks/" height="30" width="40" /></a>
 </p>
